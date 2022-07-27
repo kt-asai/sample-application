@@ -1,5 +1,5 @@
 {
-  "name": "test-vue-project",
+  "name": "sample-application",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -15,7 +15,7 @@
     "roboto-fontface": "*",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
-    "vuetify": "npm:@vuetify/nightly@next",
+    "vuetify": "^3.0.0-beta.5",
     "vuex": "^4.0.0",
     "webfontloader": "^1.0.0"
   },
